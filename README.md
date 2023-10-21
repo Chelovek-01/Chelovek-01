@@ -21,6 +21,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ch4l0v4k)
 [![VK](https://img.shields.io/badge/-Vkontakte-004C7F?style=for-the-badge&logo=Vk&logoColor=4FD7B3)](https://vk.com/chelovek477386)
 
+![Statistic](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={Chelovek-01}&theme={theme_name}&exclude={exclude})
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Chelovek-01}&theme={Languages}&exclude={exclude})
 
 ![](https://komarev.com/ghpvc/?username=Chelovek-01)
