@@ -13,5 +13,5 @@ Something
 
 ### My contacts
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.chelovek477386@gmail.com)
-[![Telegram]()]()
-[![VK](https://img.shields.io/badge/-Vkontakte-004C7F?style=for-the-badge&logo=Vk&logoColor=4FD7B3)]()
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ch4l0v4k)
+[![VK](https://img.shields.io/badge/-Vkontakte-004C7F?style=for-the-badge&logo=Vk&logoColor=4FD7B3)](https://vk.com/chelovek477386)
