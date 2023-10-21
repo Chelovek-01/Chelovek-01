@@ -1,8 +1,13 @@
 ![Header](https://github.com/Chelovek-01/Chelovek-01/blob/main/assets/Welcome-depositphotos-bgremover.png)
 
-## Hello! I'm a begginnig web-developer
+## Hello! I'm Murad, beginning frontend-developer
 
-Something
+#### I am currently in the process of learning frontend development. Soon I will start studying React, so the profile will change over time. What skills do I have at the moment: 
+
+- Knowledge of adaptive layout 
+- Understanding the principles of Javascript 
+- Knowledge of English at the Upper-Intermediate level
+- Great enthusiasm
 
 ### Languages and Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
