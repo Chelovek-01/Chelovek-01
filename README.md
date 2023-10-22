@@ -22,6 +22,4 @@
 [![VK](https://img.shields.io/badge/-Vkontakte-004C7F?style=for-the-badge&logo=Vk&logoColor=4FD7B3)](https://vk.com/chelovek477386)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Chelovek-01}&theme={Languages}&exclude={exclude})
-
 ![](https://komarev.com/ghpvc/?username=Chelovek-01)
