@@ -2,7 +2,7 @@
 
 # Hello! I'm Murad, beginning frontend-developer
 
-### I am currently in the process of learning frontend development. Soon I will start studying React, so the profile will change over time. What skills do I have at the moment: 
+### I am currently in the process of learning frontend development, so the profile will change over time. What skills do I have at the moment: 
 
 - Knowledge of adaptive layout 
 - Understanding the principles of Javascript
