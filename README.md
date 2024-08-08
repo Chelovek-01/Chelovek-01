@@ -1,6 +1,6 @@
 ![Header](https://github.com/Chelovek-01/Chelovek-01/blob/main/assets/Welcome-depositphotos-bgremover.png)
 
-# Hello! I'm Murad, beginning frontend-developer
+# Hello! I'm Murad, frontend-developer
 
 ### I am currently in the process of learning frontend development, so the profile will change over time. What skills do I have at the moment: 
 
